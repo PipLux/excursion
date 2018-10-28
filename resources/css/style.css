@@ -1,0 +1,43 @@
+h1,
+h2,
+p {
+  font-family: "Verdana", sans-serif;
+}
+
+.background {
+  background-color: black;
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: white;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+video {
+    object-fit: contain;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+#copyright {
+  text-align: right;
+}
